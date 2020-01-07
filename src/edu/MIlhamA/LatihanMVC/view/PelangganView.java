@@ -12,7 +12,9 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Ilham
+ * Nama : Muahammad Ilham Apriyadi
+ * NIM  : 10118045
+ * Kelas: IF-2
  */
 public class PelangganView extends javax.swing.JFrame implements PelangganListener {
 

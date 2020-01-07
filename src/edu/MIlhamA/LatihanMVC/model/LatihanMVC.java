@@ -9,7 +9,9 @@ import edu.MIlhamA.LatihanMVC.view.PelangganView;
 
 /**
  *
- * @author Ilham
+ * Nama : Muahammad Ilham Apriyadi
+ * NIM  : 10118045
+ * Kelas: IF-2
  */
 public class LatihanMVC {
 
